@@ -13,3 +13,11 @@ https://themeforest.net/item/donation-responsive-wordpress-theme/8101199?s_rank=
 https://themeforest.net/item/born-to-give-charity-crowdfunding-responsive-wordpress-theme/15709244?s_rank=30
 
 https://themeforest.net/item/generosity-charity-nonprofit-wordpress-theme/14435782?s_rank=40 - This looks good with new features
+
+
+
+
+Hi
+  I found this may be we should try with this
+  https://wordpress.org/plugins/currency-switcher/
+ Woocommerce is used for shopping so its features will be related to shopping 
